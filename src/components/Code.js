@@ -1,10 +1,7 @@
-// src/components/Code.js
 import React from 'react';
 
 function Code() {
   const nbviewerUrl = "https://nbviewer.jupyter.org/github/rudyP123/CS4824-ML-Project/blob/main/ML_Project.ipynb";
-
-  // https://github.com/rudyP123/CS4824-ML-Project/blob/main/ML_Project.ipynb
 
   return (
     <div>
@@ -17,4 +14,3 @@ function Code() {
 }
 
 export default Code;
-
