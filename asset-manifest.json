@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ML-Final-Project-Website/static/js/main.f83f880c.js",
+    "main.js": "/ML-Final-Project-Website/static/js/main.cb8168a1.js",
     "index.html": "/ML-Final-Project-Website/index.html",
-    "main.f83f880c.js.map": "/ML-Final-Project-Website/static/js/main.f83f880c.js.map"
+    "main.cb8168a1.js.map": "/ML-Final-Project-Website/static/js/main.cb8168a1.js.map"
   },
   "entrypoints": [
-    "static/js/main.f83f880c.js"
+    "static/js/main.cb8168a1.js"
   ]
 }
